@@ -1,3 +1,4 @@
 Runnging as an openai endpoint.
 
-This app should start on supported region's server.
+If app deployed on supported region, need no configuration.
+Else, need additional http proxy.
